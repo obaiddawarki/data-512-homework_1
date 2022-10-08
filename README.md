@@ -61,10 +61,3 @@ The data description for the JSON files have been given below:
 This code is available under the [MIT License](LICENSE)
 
 Wikimedia [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
-
-## License
-
-This code is available under the [MIT License](LICENSE)
-
-Wikimedia [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
-
