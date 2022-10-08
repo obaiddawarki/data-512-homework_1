@@ -53,9 +53,7 @@ The directory structure for the repository has been shown below in the form of a
 
 ![Bottom Top 10 With Fewest Months](# Human Centered Data Science - Homework_1
 
-#About the Project
-The repository contains the code and the data to reproduce the results for the analysis of the monthly views on the
-dinosaurs articles on the English wikipedia ranging from July 2015 through September 2022. The data analysis for this project includes data acquisition, data processing and generating the time series analysis for the number of views for each dinosaurs articles. This homework was the part of Human Centered Data Science at the University of Washington - Seattle for Autumn 2022. The project contains all the details to reproduce this analysis independently on any machine without the use of any specific software package.
+
 
 ## API Documentation
 The data acquisition was done from the Page View API and this API gives us the data at monthly granularity. The link for the API used in the analysis for this assignment : [Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews#Monthly_counts)
